@@ -1,1 +1,1 @@
-# HMS-java-project
+#  This is my Hospital Management System Java project . In this  I include various section such as login ,patient_info, emploees Details and rooms Availability. I build this project using SQL, database etc.
